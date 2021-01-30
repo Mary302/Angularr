@@ -1,0 +1,20 @@
+[
+  {
+    "id": 69,
+    "userId": 1,
+    "cartId": "123",
+    "totalPrice": 102,
+    "orderCity": "Ashdod",
+    "orderStreet": "Lori",
+    "shippingDate": "2020-09-03T21:00:00.000Z",
+    "lastFourDigits": 4325,
+    "Id": 368,
+    "productId": "5",
+    "quantity": 1,
+    "totalPice": 40,
+    "shoppin_cartId": 123,
+    "creationDate": "2020-09-02T21:00:00.000Z",
+    "isCheckedOut": 0,
+    "checkOutDate": null
+  }
+]

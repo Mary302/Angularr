@@ -1,0 +1,20 @@
+[
+  {
+    "id": 58,
+    "userId": 1,
+    "cartId": "47",
+    "totalPrice": 276,
+    "orderCity": "Ashdod",
+    "orderStreet": "hamahapilim",
+    "shippingDate": "2020-09-03T21:00:00.000Z",
+    "lastFourDigits": 5678,
+    "Id": 273,
+    "productId": "7",
+    "quantity": 2,
+    "totalPice": 110,
+    "shoppin_cartId": 47,
+    "creationDate": "2020-09-01T21:00:00.000Z",
+    "isCheckedOut": 0,
+    "checkOutDate": null
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 63,
+    "userId": 1,
+    "cartId": "52",
+    "totalPrice": 218,
+    "orderCity": "Haifa",
+    "orderStreet": "hamahapilim",
+    "shippingDate": "2020-09-03T21:00:00.000Z",
+    "lastFourDigits": 4325,
+    "Id": 292,
+    "productId": "7",
+    "quantity": 2,
+    "totalPice": 110,
+    "shoppin_cartId": 52,
+    "creationDate": "2020-09-01T21:00:00.000Z",
+    "isCheckedOut": 0,
+    "checkOutDate": null
+  }
+]

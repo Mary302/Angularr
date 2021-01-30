@@ -1,0 +1,20 @@
+[
+  {
+    "id": 62,
+    "userId": 1,
+    "cartId": "51",
+    "totalPrice": 108,
+    "orderCity": "Jerusalem",
+    "orderStreet": "Harosh",
+    "shippingDate": "2020-09-03T21:00:00.000Z",
+    "lastFourDigits": 1243,
+    "Id": 289,
+    "productId": "3",
+    "quantity": 3,
+    "totalPice": 30,
+    "shoppin_cartId": 51,
+    "creationDate": "2020-09-01T21:00:00.000Z",
+    "isCheckedOut": 1,
+    "checkOutDate": "2020-09-01T21:00:00.000Z"
+  }
+]

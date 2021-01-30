@@ -1,0 +1,20 @@
+[
+  {
+    "id": 64,
+    "userId": 1,
+    "cartId": "1",
+    "totalPrice": 106,
+    "orderCity": "Ashdod",
+    "orderStreet": "hagdud",
+    "shippingDate": "2020-09-22T21:00:00.000Z",
+    "lastFourDigits": 5678,
+    "Id": 118,
+    "productId": "1",
+    "quantity": 8,
+    "totalPice": 128,
+    "shoppin_cartId": 36,
+    "creationDate": "2020-09-01T21:00:00.000Z",
+    "isCheckedOut": 1,
+    "checkOutDate": "2020-09-01T21:00:00.000Z"
+  }
+]
